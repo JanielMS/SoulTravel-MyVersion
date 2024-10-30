@@ -14,7 +14,7 @@ O site possui um design responsivo e moderno, utilizando HTML, CSS e um pouco de
 
 ## Referência
 
-Este projeto é inspirado no design criado por [Web Design Mastery]([https://www.youtube.com/watch?v=K7q_3sX8gO4](https://www.youtube.com/watch?v=99VV8wnO2Kc&list=PLs4F5np6UvVI1wa19gZNzgZoU3nZbwNGb)). Você pode conferir o vídeo original no YouTube para mais informações sobre o processo de design.
+Este projeto é inspirado no design criado por [Web Design Mastery](https://www.youtube.com/watch?v=99VV8wnO2Kc&list=PLs4F5np6UvVI1wa19gZNzgZoU3nZbwNGb). Você pode conferir o vídeo original no YouTube para mais informações sobre o processo de design.
 
 ## Tecnologias Utilizadas
 
