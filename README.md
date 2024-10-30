@@ -2,6 +2,8 @@
 
 Este projeto é uma versão adaptada de um site de viagens chamado SoulTravel. O objetivo é criar uma plataforma de turismo atraente e funcional, permitindo que os usuários explorem destinos, pacotes de viagem, eventos locais e mais.
 
+Veja o site no ar [clicando aqui](https://soultravel-myversion.netlify.app/)
+
 ## Descrição do Projeto
 
 O site possui um design responsivo e moderno, utilizando HTML, CSS e um pouco de JavaScript para interatividade. A estrutura do layout foi organizada usando CSS Grid e FlexBox para facilitar a disposição dos elementos na página.
